@@ -1,4 +1,4 @@
-# SSPanel 自动签到 V2.0 支持多站点多用户
+# SSPanel 自动签到 V2.0 支持多站点多用户 
 
 ![SSPanel_Auto_Checkin](https://github.com/isecret/sspanel-autocheckin/workflows/SSPanel_Auto_Checkin/badge.svg)
 
