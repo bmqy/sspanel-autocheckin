@@ -363,6 +363,7 @@ ssp_autochenkin() {
             user_count=$(expr ${user_count} + 1)
         done
         log_text="${log_text}\n续命情况：$(keep_alive)"
+        log_text="${log_text}\n\n免费使用自: https://github.com/isecret/sspanel-autocheckin"
         send_message
 
         rm -rf ${COOKIE_PATH}
